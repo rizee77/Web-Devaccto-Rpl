@@ -1,5 +1,6 @@
 import Code from '../assets/code.png'
 
+
 // fungsi saat di scrool warnanya berubah
 function Head() {
 
